@@ -1,2 +1,3 @@
 Text for file1
 bla bla 123
+new lines
