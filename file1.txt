@@ -1,3 +1,3 @@
 Text for file1
 bla bla 123
-changess from user1
+changes from user1
