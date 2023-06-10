@@ -1,2 +1,3 @@
 Text for file2
 more text
+line from  user2
